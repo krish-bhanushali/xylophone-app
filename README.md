@@ -1,6 +1,18 @@
-# xyloapp
+# xylophone-app
 
-A new Flutter application.
+A simple application that lets you play a xylophone.
+
+# Introduction
+Now this a again an simple app which I made to play audio with the help of an imported package , new things in the code I learnt are using function to return widget , passing widgets or different class objects as a named parameter and make my code less repitative. 
+New things I will introduce
+- As I learn more I would have piano and different musical instruments as well
+
+# visuals
+Icon:
+![](assets/icon.png)
+
+Homepage:
+![](assets/visual.png)
 
 ## Getting Started
 
